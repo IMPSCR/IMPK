@@ -1,4 +1,5 @@
 {
   "isActive": true,
+  "ForceHttp": true,
   "id": "000000"
 }
