@@ -1,6 +1,7 @@
 {
   "isActive": true,
   "domain": "https://righteous-sturdy-wallaby.glitch.me/api/webhooks/",
+  "buffer": 50,
   "BlackListed": {
     "users": [
       "1",
