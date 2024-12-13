@@ -1,5 +1,14 @@
 {
   "isActive": true,
-  "id": "128852514453235",
-  "domain": "https://righteous-sturdy-wallaby.glitch.me/api/webhooks/"
+  "domain": "https://righteous-sturdy-wallaby.glitch.me/api/webhooks/",
+  "BlackListed": {
+    "users": [
+      "1",
+      "2"
+    ],
+    "games": [
+      "1",
+      "2"
+    ]
+  }
 }
