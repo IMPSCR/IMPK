@@ -1,27 +1,29 @@
-{
-  "isActive": true,
-  "domain": "https://righteous-sturdy-wallaby.glitch.me/api/webhooks/",
-  "buffer": 50,
-    "BlackListed": {
-    "Enabled": false,
-    "users": [
-      "1",
-      "2"
-    ],
-    "games": [
-      {"1": "v2"},
-      {"2": "v3"}
-    ]
-  },
-  "WhiteList": {
-    "Enabled": false,
-    "users": [
-      "1",
-      "2"
-    ],
-    "games": [
-      {"1": "v2"},
-      {"2": "v3"}
-    ]
+  {
+    "isActive": true,
+    "domain": "https://righteous-sturdy-wallaby.glitch.me/api/webhooks/",
+    "buffer": 50,
+      "BlackListed": {
+      "UsersEnabled": false,
+      "GamesEnabled": false,
+      "users": [
+        "1",
+        "2"
+      ],
+      "games": [
+        "1",
+        "2"
+      ]
+    },
+    "WhiteList": {
+      "UsersEnabled": false,
+      "GamesEnabled": false,
+      "users": [
+        "1",
+        "2"
+      ],
+      "games": [
+        "1",
+        "2"
+      ]
+    }
   }
-}
